@@ -19,3 +19,5 @@ Sonrasında manuel bir şekilde bakabilir veya ekran görüntüleri alınabilir.
 cat resolversdomains.txt | aquatone -ports 80,443
 
 
+! https://github.com/gkhan496/phishing-brute-earthquake adresinden faydalanılmıştır !
+
