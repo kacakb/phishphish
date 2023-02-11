@@ -28,5 +28,5 @@ cat resolversdomains.txt | aquatone -ports 80,443
 
 Farklı whois sunucuları kullanılabilir ve yeni oluşturulan domainle, domain-names.txt dosyası içerisine eklenebilir.
 
-Filtrenemek istenen farklı kelimelerde filter.txt dosyasına eklenebilir
+Filtrenemek istenen farklı kelimelerde filtrele.txt dosyasına eklenebilir
 
