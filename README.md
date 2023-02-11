@@ -3,7 +3,7 @@
 Not:Repoda belirtilen domain-names.txt 'in içeriği ile aynıdır.
 
 2.cat domain-names.txt | grep -f filter.txt >> filtered_output.txt
-Not:Repoda belirtilen Newly Subdomains 'in
+
 
 3.puredns resolve filtered_output.txt -r resolvers.txt 
 
