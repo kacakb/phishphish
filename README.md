@@ -23,5 +23,10 @@ Sonrasında manuel bir şekilde bakabilir veya ekran görüntüleri alınabilir.
 cat resolversdomains.txt | aquatone -ports 80,443
 
 
-! https://github.com/gkhan496/phishing-brute-earthquake adresindeki fikir benimsenmiştir. !
+! https://github.com/gkhan496/phishing-brute-earthquake tarafından ilk olarak düşünmülmüştür !
+
+
+Farklı whois sunucuları kullanılabilir ve domain-names.txt dosyası içerisine eklenebilir.
+
+Filtrenemek istenen farklı kelimelerde filter.txt dosyasına eklenebilir
 
