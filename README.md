@@ -29,8 +29,8 @@ cat resolversdomains.txt | aquatone -ports 80,443
 
 ! https://github.com/gkhan496/phishing-brute-earthquake tarafından ilk olarak düşünmülmüştür !
 
-Bu projenin amacı, yeni açılmış olan phishing deprem web sitelerinin tespit edilmesidir.
 
+Deprem felaketinden sonra dolandırıcıların/fırsatçıların kurmuş olduğu yeni phishing sitelerin, tespit edilmesine yönelik bir yapı kurulmak istenmiştir.
 
 Farklı whois sunucuları kullanılabilir ve yeni oluşturulan domainle, domain-names.txt dosyası içerisine eklenebilir.
 
