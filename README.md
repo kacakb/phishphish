@@ -4,19 +4,13 @@ Not:Repoda belirtilen domain-names.txt 'in içeriği ile aynıdır.
 
 2.cat domain-names.txt | grep -f filter.txt >> filtered_output.txt
 
-
-3.puredns resolve filtered_output.txt -r resolvers.txt 
-
-4.puredns resolve filtered_output.txt -r resolvers.txt  >>resolversdomains.txt
+3.puredns resolve filtered_output.txt -r resolvers.txt  >>resolversdomains.txt
 
 ----------------------------OR------------------------
 
-
 //cat filtered_output.txt|httpx>>httpxphishingdomains.txt//
 
-
-
-5.cat resolversdomains.txt|httpx -title
+4.cat resolversdomains.txt|httpx -title    
 
 Sonrasında manuel bir şekilde bakabilir veya ekran görüntüleri alınabilir.
 
