@@ -1,6 +1,7 @@
 Kullanılan araçlar'a bu linklerden ulaşabilirsiniz.
 
 https://github.com/d3mondev/puredns
+
 https://github.com/projectdiscovery/httpx
 
 -----------------------------------------
