@@ -1,4 +1,10 @@
 deprem
+maras
+adiyaman
+elbistan
+fon
+depremzede
+hasar
 bagis
 afad
 yardim
