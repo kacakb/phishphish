@@ -4,6 +4,8 @@ https://github.com/d3mondev/puredns
 
 https://github.com/projectdiscovery/httpx
 
+https://github.com/michenriksen/aquatone
+
 -----------------------------------------
 
 1.wget 'https://www.whoisds.com//whois-database/newly-registered-domains/MjAyMy0wMi0xMC56aXA=/nrd' -O subdomains.zip && unzip subdomains.zip
