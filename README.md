@@ -10,7 +10,11 @@ Not:Repoda belirtilen Newly Subdomains 'in
 4.puredns resolve filtered_output.txt -r resolvers.txt  >>resolversdomains.txt
 
 ----------------------------OR------------------------
+
+
 //cat filtered_output.txt|httpx>>httpxphishingdomains.txt//
+
+
 
 5.cat resolversdomains.txt|httpx -title
 
