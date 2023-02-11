@@ -32,7 +32,7 @@ cat resolversdomains.txt | aquatone -ports 80,443
 
 Deprem felaketinden sonra dolandırıcıların/fırsatçıların kurmuş olduğu yeni phishing sitelerin, tespit edilmesine yönelik bir yapı kurulmak istenmiştir.
 
-Farklı whois sunucuları kullanılabilir ve yeni oluşturulan domainle, domain-names.txt dosyası içerisine eklenebilir.
+Farklı whois sunucuları kullanılabilir ve yeni oluşturulan domainler, domain-names.txt dosyası içerisine eklenebilir.
 
 Filtrenemek istenen farklı kelimelerde filtrele.txt dosyasına eklenebilir
 
