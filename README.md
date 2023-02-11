@@ -1,3 +1,10 @@
+Kullanılan araçlar'a bu linklerden ulaşabilirsiniz.
+
+https://github.com/d3mondev/puredns
+https://github.com/projectdiscovery/httpx
+
+-----------------------------------------
+
 1.wget 'https://www.whoisds.com//whois-database/newly-registered-domains/MjAyMy0wMi0xMC56aXA=/nrd' -O subdomains.zip && unzip subdomains.zip
 
 Not:Repoda belirtilen domain-names.txt 'in içeriği ile aynıdır.
