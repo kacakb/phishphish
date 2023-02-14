@@ -27,9 +27,6 @@ Sonrasında manuel bir şekilde bakabilir veya ekran görüntüleri alınabilir.
 cat resolversdomains.txt | aquatone -ports 80,443
 
 
-! https://github.com/gkhan496/phishing-brute-earthquake tarafından ilk olarak düşünmülmüştür !
-
-
 Deprem felaketinden sonra dolandırıcıların/fırsatçıların kurmuş olduğu yeni phishing sitelerin, tespit edilmesine yönelik bir yapı kurulmak istenmiştir.
 
 Farklı whois sunucuları kullanılabilir ve yeni oluşturulan domainler, domain-names.txt dosyası içerisine eklenebilir.
